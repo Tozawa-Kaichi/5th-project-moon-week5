@@ -45,7 +45,7 @@
   "scopedRegistries": [
     {
       "name": "OpenUPM",
-      "url": "https://package.openupm.com",
+      "url": "https://package.openupm.com/",
       "scopes": [
         "com.demigiant",
         "com.neuecc",
